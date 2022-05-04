@@ -2,9 +2,9 @@
 
 Hi there! 👋🏻 My name is Ricardo. I'm a Computer Engineer from Guadalajara, Mexico. 
 
-I have strong experience as full stack web developer and also some experience in mobile apps development. 👩🏻‍💻
+I have strong experience as full stack web developer and also some experience in mobile apps development.
 
-I'm starting to learn the basics of Data Science and Machine Learning as those fields have always been of interest for me.
+I'm currently learning Kotlin to start working on app development again.
 
 ## 🤓 What I know
 
