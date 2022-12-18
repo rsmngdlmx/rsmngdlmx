@@ -10,7 +10,7 @@ I'm currently strenghtening my skills as a web dev, learning Kotlin to start wor
 
 Here are some of the languages and technologies I've used. On each category, all items are listed from the ones I have more experience with, to the ones I have less.
 
-- **Backend**: Node JS, Python (Flask, Django), PHP (Laravel, Lumen), C# (ASP MVC 5).
+- **Backend**: Node JS, Python (Flask, Django), C# (ASP .Net Core / MVC 5), PHP (Laravel, Lumen).
 - **Frontend**: Vanilla JS, React, Angular.
 - **Databases**: MySQL, PostgreSQL, MongoDB.
 - **Mobile development**: Ionic, Java for Android, Objective-C.
