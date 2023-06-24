@@ -26,10 +26,6 @@ Besides gaining more experience with _What I know_, these are the languages, tec
 
 ## 🌎 Where else can you find me
 
-You can:
-
-- Visit [my website](https://www.ricardomendoza.dev) to find more details about what I've been working on.
-- Get in touch on [Twitter](https://twitter.com/R1c4rd0_5).
-- Also get in touch and find more personal stuff on [Instagram](https://www.instagram.com/r1c4rd0_5).
+You can visit [my website](https://www.ricardomendoza.dev) to find more details about what I've been working on.
 
 Have a good day!
