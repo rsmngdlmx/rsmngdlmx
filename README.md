@@ -24,7 +24,7 @@ Besides gaining more experience with _What I know_, these are the languages, tec
 - **Mobile development**: Kotlin, Swift, Flutter.
 - **Other topics**: Data Science, Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Videogames Development.
 
-## 🌎 Where else can you find me
+## 🌎 Where else can you find me?
 
 You can visit [my website](https://www.ricardomendoza.dev) to find more details about what I've been working on.
 
