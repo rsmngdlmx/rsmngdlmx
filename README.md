@@ -6,7 +6,6 @@ Hi there! 👋 My name is Ricardo. I'm a Computer Engineer from Guadalajara, Mex
 
 - 🧑‍💻 I like doing back-end stuff, specially with Python, JavaScript (Node JS) and C#.
 - 📱 I used to develop mobile apps; I'm currently catching up on that.
-- ☁ I prefer Azure over AWS.
 - 🥼 I'm interested in Data Science.
 - 🎮 I'm kind of curious about developing videogames.
 - 🇲🇽 🇬🇧 🇫🇷 I speak Spanish, English and French.
@@ -19,6 +18,8 @@ Hi there! 👋 My name is Ricardo. I'm a Computer Engineer from Guadalajara, Mex
 ![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rsmngdlmx&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsmngdlmx&theme=dracula)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rsmngdlmx&theme=algolia)
 
 ### 📖 Some words to be read
 
