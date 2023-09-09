@@ -1,31 +1,28 @@
-# Ricardo Mendoza | Computer Engineer
+# Ricardo Mendoza
 
-Hi there! 👋🏻 My name is Ricardo. I'm a Computer Engineer from Guadalajara, Mexico. 
+Hi there! 👋 My name is Ricardo. I'm a Computer Engineer from Guadalajara, Mexico. I'm currently working as a Staff Engineer while continuously growing as a full stack web developer. I sometimes write at [my blog](https://blog.ricardomendoza.dev). You can also visit [my website](https://www.ricardomendoza.dev) to find more details about what I've been working on. Feel free to reach out!
 
-I have strong experience as full stack web developer and also some experience in mobile apps development.
+### 🤓 Some things about me
 
-I'm currently strenghtening my skills as a web dev, learning Kotlin to start working on app development again and diving deep into Systems Design.
+- 🧑‍💻 I like doing back-end stuff, specially with Python, JavaScript (Node JS) and C#.
+- 📱 I used to develop mobile apps; I'm currently catching up on that.
+- ☁ I prefer Azure over AWS.
+- 🥼 I'm interested in Data Science.
+- 🎮 I'm kind of curious about developing videogames.
+- 🇲🇽 🇬🇧 🇫🇷 I speak Spanish, English and French.
+- 🇯🇵 🇩🇪 I'm trying to learn Japanese and German.
+- 🐶 I have 3 dogs...
+- 😻 ...and 5 cats.
+- 🌱 I'm vegetarian.
+- 🌮 ☕️ 𝄢 🎞 ⽉ I love (vegan) tacos, coffee, music, movies & languages!
 
-## 🤓 What I know
+![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rsmngdlmx&show_icons=true&theme=dracula)
 
-Here are some of the languages and technologies I've used. On each category, all items are listed from the ones I have more experience with, to the ones I have less.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsmngdlmx&theme=dracula)
 
-- **Backend**: Node JS, Python (Flask, Django), C# (ASP .Net Core / MVC 5), PHP (Laravel, Lumen).
-- **Frontend**: Vanilla JS, React, Angular.
-- **Databases**: MySQL, PostgreSQL, MongoDB.
-- **Mobile development**: Ionic, Java for Android, Objective-C.
-- **Cloud**: Azure, AWS.
-- **Others**: C/C++, Serverless, GraphQL.
+### 📖 Some words to be read
 
-## 🎯 What I would like to know
+- [Proxyquire + Sinon: boost your unit testing in Node JS](https://blog.ricardomendoza.dev/proxyquire-sinon-en)
+- [Understanding RESTful APIs pt. 1](https://blog.ricardomendoza.dev/understanding-restful-apis-part-1)
 
-Besides gaining more experience with _What I know_, these are the languages, technologies and areas I'm also interested in and, therefore, would like to learn and/or start to explore in the near future. These ones are in no particular order.
-
-- **Mobile development**: Kotlin, Swift, Flutter.
-- **Other topics**: Data Science, Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Videogames Development.
-
-## 🌎 Where else can you find me?
-
-You can visit [my website](https://www.ricardomendoza.dev) to find more details about what I've been working on.
-
-Have a good day!
+Have a nice day!
