@@ -19,7 +19,7 @@ Hi there! 👋 My name is Ricardo. I'm a Computer Engineer from Guadalajara, Mex
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsmngdlmx&theme=dracula)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rsmngdlmx&theme=algolia)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rsmngdlmx&theme=dracula)
 
 ### 📖 Some words to be read
 
