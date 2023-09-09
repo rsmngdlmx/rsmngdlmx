@@ -26,3 +26,7 @@ Hi there! 👋 My name is Ricardo. I'm a Computer Engineer from Guadalajara, Mex
 - [Understanding RESTful APIs pt. 1](https://blog.ricardomendoza.dev/understanding-restful-apis-part-1)
 
 Have a nice day!
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/41123719/164349573-0fdfef29-1ff9-4978-b43f-a2774a0282cd.gif" width="100" />
+</div>
