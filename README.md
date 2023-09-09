@@ -28,5 +28,5 @@ Hi there! 👋 My name is Ricardo. I'm a Computer Engineer from Guadalajara, Mex
 Have a nice day!
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/41123719/164349573-0fdfef29-1ff9-4978-b43f-a2774a0282cd.gif" width="100" />
+  <img alt="Cinnamoroll" src="https://user-images.githubusercontent.com/41123719/164349573-0fdfef29-1ff9-4978-b43f-a2774a0282cd.gif" width="140" />
 </div>
