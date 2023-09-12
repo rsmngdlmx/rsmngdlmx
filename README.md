@@ -10,7 +10,7 @@ Hi there! 👋 My name is Ricardo. I'm a Computer Engineer from Guadalajara, Mex
 - 🇲🇽 🇬🇧 🇫🇷 I speak Spanish, English and French.
 - 🇯🇵 🇩🇪 I'm trying to learn Japanese and German.
 - 🐶 I have 3 dogs...
-- 😻 ...and 5 cats, all rescued.
+- 😻 ...and 5 cats; all rescued.
 - 🌱 I'm vegetarian.
 - 🌮 ☕️ 𝄢 🎞 ⽉ I love (vegan) tacos, coffee, music, movies & languages.
 
