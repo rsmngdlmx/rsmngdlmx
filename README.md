@@ -1,6 +1,6 @@
 # Ricardo Mendoza
 
-Hi there! 👋 My name is Ricardo. I'm a Computer Engineer from Guadalajara, Mexico. I'm currently working as a Staff Engineer while continuously growing as a full stack web developer. I sometimes write at [my blog](https://blog.ricardomendoza.dev). You can also visit [my website](https://www.ricardomendoza.dev) to find more details about what I've been working on. Feel free to reach out!
+Hi there! 👋 My name is Ricardo. I'm a Computer Engineer from Guadalajara, Mexico. I'm currently working as a Staff Engineer while continuously growing as a full stack web developer. I sometimes write at [my blog](https://blog.ricardomendoza.dev). Feel free to reach out!
 
 ### 🤓 Some things about me
 
@@ -9,8 +9,8 @@ Hi there! 👋 My name is Ricardo. I'm a Computer Engineer from Guadalajara, Mex
 - 🥼 I'm interested in Data Science.
 - 🇲🇽 🇬🇧 🇫🇷 I speak Spanish, English and French.
 - 🇯🇵 🇩🇪 I'm trying to learn Japanese and German.
-- 🐶 I have 3 dogs...
-- 😻 ...and 5 cats; all rescued.
+- 🐶 I have 1 dog...
+- 😻 ...and 4 cats; all rescued.
 - 🌱 I'm vegetarian.
 - 🌮 ☕️ 𝄢 🎞 ⽉ I love (vegan) tacos, coffee, music, movies & languages.
 
